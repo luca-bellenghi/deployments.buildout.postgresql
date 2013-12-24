@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 deployments.buildout.pgbackup
 =============================
 
@@ -48,3 +49,7 @@ Take a look in the comments of `config/base.cfg`
 TODO
 ----
 Restore script.
+=======
+deployments.buildout.postgresql
+===============================
+>>>>>>> 4f6e47f689f81b2d91891a969acd54668abdd4df
